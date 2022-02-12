@@ -1,2 +1,2 @@
 # Advanced-Game-Technologies
-Course work
+Course work using advanced game technologies. This moduel was based around using OpenGl and C++ promgramming which the creation of an 2 different games, using advanced features to create phyics and force to move a object without the user in-putting commands on a keyboard as an example. Level 2 on the other hand was the creature of an AI agent which uses a path line which followers the user where they move to showcase where ever the player moved the AI would follow and try and destory.
